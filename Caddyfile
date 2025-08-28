@@ -1,0 +1,4 @@
+# Replace with your domain and port
+your-domain.com {
+    reverse_proxy host.docker.internal:3000
+}

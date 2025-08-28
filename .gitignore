@@ -1,0 +1,9 @@
+# Docker volumes
+/caddy_data/
+/caddy_config/
+
+# Environment files
+.env
+
+# Logs
+*.log
